@@ -88,6 +88,7 @@ gitcreds::gitcreds_set()
 #| label: create github repo
 usethis::use_github()
 
+
 ```
 
 # Exercise 2: Collaborating with GitHub
