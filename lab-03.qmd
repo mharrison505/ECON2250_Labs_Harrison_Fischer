@@ -87,6 +87,7 @@ gitcreds::gitcreds_set()
 ```{r, echo=T, eval=F}
 #| label: create github repo
 usethis::use_github()
+
 ```
 
 # Exercise 2: Collaborating with GitHub
@@ -439,7 +440,7 @@ To submit your assignment:
 # Grading
 
 | Component                                                          | Points |
-|:---------------------------------------------------------|:-------------|
+|:------------------------------------------------------|:----------------|
 | Exercise 1                                                         | 5      |
 | Exercise 2                                                         | 5      |
 | Exercise 3                                                         | 80     |
